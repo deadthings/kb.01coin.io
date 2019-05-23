@@ -12,4 +12,4 @@ If you want a chance to win some 01coin masternodes, check out the content-creat
 
 Make some content; earn some coins. It doesn't get any better than that, right?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cVlLeSqTm4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![How to Setup a 01coin Masternode Using 01VPS.net](https://img.youtube.com/vi/cVlLeSqTm4k/0.jpg)](https://www.youtube.com/watch?v=cVlLeSqTm4k)
