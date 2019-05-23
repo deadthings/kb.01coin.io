@@ -12,4 +12,4 @@ If you want a chance to win some 01coin masternodes, check out the content-creat
 
 Make some content; earn some coins. It doesn't get any better than that, right?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kzkQvOinxAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![How to Register on Graviex and Start Trading 01coin](https://img.youtube.com/vi/kzkQvOinxAE/0.jpg)](https://www.youtube.com/watch?v=kzkQvOinxAE)
